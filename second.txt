@@ -1,2 +1,3 @@
 A new txt file.
 Second line.
+3rd.
