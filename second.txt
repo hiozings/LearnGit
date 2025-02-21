@@ -3,3 +3,4 @@ Second line.
 3rd.
 Create a new branch.
 New line on master.
+Conflict.
