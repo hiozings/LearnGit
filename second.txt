@@ -4,3 +4,4 @@ Second line.
 Create a new branch.
 New line on master.
 Conflict.
+merge with no-ff.
