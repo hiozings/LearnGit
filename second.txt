@@ -1,1 +1,2 @@
 A new txt file.
+Second line.
